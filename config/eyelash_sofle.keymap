@@ -81,7 +81,7 @@
             sensor-bindings = <&scroll_encoder>;
         };
 
-        layer_3 {
+        extra {
             bindings = <
 &trans    &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans    &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
@@ -91,6 +91,7 @@
             >;
 
             sensor-bindings = <&scroll_encoder>;
+            label = "Extra";
         };
 
         config {
