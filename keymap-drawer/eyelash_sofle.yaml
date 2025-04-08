@@ -57,7 +57,7 @@ layers:
   - $$mdi:apple-keyboard-option$$
   - Function
   - $$mdi:apple-keyboard-command$$
-  - special
+  - Special
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:keyboard-return$$', type: enter}
@@ -65,7 +65,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  special:
+  Special:
   - {t: '`', s: '~'}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
